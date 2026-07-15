@@ -33,10 +33,8 @@ def draw_background(draw: ImageDraw.ImageDraw) -> None:
 
     draw.ellipse((1180, -50, 1500, 270), fill=(ACCENT[0], ACCENT[1], ACCENT[2], 18))
     draw.ellipse((1320, 220, 1560, 460), fill=(255, 255, 255, 10))
-    for x in range(0, WIDTH, 200):
-        draw.line([(x, 0), (x, HEIGHT)], fill=(255, 255, 255, 12), width=1)
-    for y in range(0, HEIGHT, 80):
-        draw.line([(0, y), (WIDTH, y)], fill=(255, 255, 255, 12), width=1)
+    draw.rounded_rectangle((1040, 250, 1180, 390), radius=28, fill=(255, 255, 255, 8))
+    draw.rounded_rectangle((1180, 40, 1360, 220), radius=36, fill=(ACCENT[0], ACCENT[1], ACCENT[2], 14))
 
 
 def circular_avatar(source: Path, size: int) -> Image.Image:
@@ -46,6 +44,16 @@ def circular_avatar(source: Path, size: int) -> Image.Image:
     ImageDraw.Draw(mask).ellipse((0, 0, size, size), fill=255)
     image.putalpha(mask)
     return image
+
+
+def circular_avatar_with_ring(source: Path, size: int, ring_width: int = 4) -> Image.Image:
+    avatar = circular_avatar(source, size)
+    canvas_size = size + ring_width * 2 + 8
+    canvas = Image.new("RGBA", (canvas_size, canvas_size), (0, 0, 0, 0))
+    ring_draw = ImageDraw.Draw(canvas)
+    ring_draw.ellipse((0, 0, canvas_size, canvas_size), outline=ACCENT + (230,), width=ring_width)
+    canvas.paste(avatar, (ring_width + 4, ring_width + 4), avatar)
+    return canvas
 
 
 def main() -> None:
@@ -85,6 +93,11 @@ def main() -> None:
     output = ASSETS / "banner.png"
     banner.convert("RGB").save(output, format="PNG", optimize=True)
     print(f"Generated {output}")
+
+    profile_circle = circular_avatar_with_ring(profile_path, 220)
+    profile_output = ASSETS / "profile-circle.png"
+    profile_circle.save(profile_output, format="PNG", optimize=True)
+    print(f"Generated {profile_output}")
 
 
 if __name__ == "__main__":

@@ -4,6 +4,10 @@
 
 <br /><br />
 
+<img src="assets/profile-circle.png" alt="Ankit Biswas" width="140" />
+
+<br /><br />
+
 # Ankit Biswas
 
 ### Full-Stack Developer
@@ -11,6 +15,10 @@
 Building scalable enterprise applications with modern Microsoft technologies.
 
 <br />
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,nodejs,html,css,tailwind,mongodb,mysql,azure,git,github,vscode,visualstudio,postman" alt="Technology stack icons" />
+
+<br /><br />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3000&pause=1200&color=1EA7FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;ASP.NET+Core+Developer;React+Developer;Azure+DevOps+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
