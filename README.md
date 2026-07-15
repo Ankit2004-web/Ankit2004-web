@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Ankit Biswas — Full-Stack Developer" width="100%" />
+<img src="assets/banner.png" alt="Ankit Biswas — Full-Stack Developer" width="100%" />
 
 <br /><br />
 
@@ -12,7 +12,7 @@ Building scalable enterprise applications with modern Microsoft technologies.
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=500&size=22&duration=3000&pause=1200&color=1EA7FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;ASP.NET+Core+Developer;React+Developer;Azure+DevOps+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3000&pause=1200&color=1EA7FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;ASP.NET+Core+Developer;React+Developer;Azure+DevOps+Enthusiast;Always+Learning)](https://git.io/typing-svg)
 
 <br />
 
@@ -98,13 +98,12 @@ I work across the stack — from REST API design and database modeling to respon
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ankit2004-web&show_icons=true&theme=transparent&hide_border=true&title_color=1EA7FF&icon_color=1EA7FF&text_color=E8EEF7&bg_color=0A2A66&custom_title=GitHub%20Stats" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit2004-web&theme=transparent&hide_border=true&stroke=1EA7FF&ring=1EA7FF&fire=1EA7FF&currStreakLabel=1EA7FF&sideLabels=FFFFFF&dates=E8EEF7&background=0A2A66" alt="GitHub Streak" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankit2004-web&show_icons=true&theme=dark&hide_border=true&title_color=1EA7FF&icon_color=1EA7FF&text_color=E8EEF7&bg_color=0A2A66&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Ankit2004-web&theme=dark&hide_border=true&stroke=1EA7FF&ring=1EA7FF&fire=1EA7FF&currStreakLabel=1EA7FF&sideLabels=FFFFFF&dates=E8EEF7&background=0A2A66" alt="GitHub Streak" />
 
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit2004-web&layout=compact&theme=transparent&hide_border=true&title_color=1EA7FF&text_color=E8EEF7&bg_color=0A2A66&langs_count=8" alt="Top Languages" />
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=Ankit2004-web&theme=onedark&no-frame=true&no-bg=true&column=4&title_color=1EA7FF&text_color=E8EEF7" alt="GitHub Trophy" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankit2004-web&layout=compact&theme=dark&hide_border=true&title_color=1EA7FF&text_color=E8EEF7&bg_color=0A2A66&langs_count=8" alt="Top Languages" />
 
 <br />
 
