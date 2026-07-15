@@ -118,9 +118,9 @@ I work across the stack — from REST API design and database modeling to respon
 ### Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/dist/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/dist/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 > The contribution snake generates automatically after the first workflow run. Trigger it manually under **Actions → Generate Snake → Run workflow**.
