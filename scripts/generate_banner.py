@@ -10,6 +10,11 @@ ACCENT = (30, 167, 255)
 WHITE = (255, 255, 255)
 MUTED = (184, 199, 220)
 LIGHT = (232, 238, 247)
+AVATAR_SIZE = 184
+AVATAR_X = 1188
+AVATAR_Y = 108
+AVATAR_CENTER_X = AVATAR_X + AVATAR_SIZE // 2
+AVATAR_CENTER_Y = AVATAR_Y + AVATAR_SIZE // 2
 
 
 def load_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
@@ -31,10 +36,32 @@ def draw_background(draw: ImageDraw.ImageDraw) -> None:
         b = int(PRIMARY[2] + (120 - PRIMARY[2]) * ratio * 0.4)
         draw.line([(x, 0), (x, HEIGHT)], fill=(r, g, b))
 
-    draw.ellipse((1180, -50, 1500, 270), fill=(ACCENT[0], ACCENT[1], ACCENT[2], 18))
-    draw.ellipse((1320, 220, 1560, 460), fill=(255, 255, 255, 10))
-    draw.rounded_rectangle((1040, 250, 1180, 390), radius=28, fill=(255, 255, 255, 8))
-    draw.rounded_rectangle((1180, 40, 1360, 220), radius=36, fill=(ACCENT[0], ACCENT[1], ACCENT[2], 14))
+
+def draw_avatar_accents(draw: ImageDraw.ImageDraw) -> None:
+    glow_radius = 132
+    draw.ellipse(
+        (
+            AVATAR_CENTER_X - glow_radius,
+            AVATAR_CENTER_Y - glow_radius,
+            AVATAR_CENTER_X + glow_radius,
+            AVATAR_CENTER_Y + glow_radius,
+        ),
+        fill=(ACCENT[0], ACCENT[1], ACCENT[2], 42),
+    )
+
+    inner_radius = 108
+    draw.ellipse(
+        (
+            AVATAR_CENTER_X - inner_radius,
+            AVATAR_CENTER_Y - inner_radius,
+            AVATAR_CENTER_X + inner_radius,
+            AVATAR_CENTER_Y + inner_radius,
+        ),
+        fill=(ACCENT[0], ACCENT[1], ACCENT[2], 28),
+    )
+
+    draw.ellipse((1410, 285, 1540, 415), fill=(255, 255, 255, 18))
+    draw.rounded_rectangle((1040, 255, 1145, 360), radius=24, fill=(255, 255, 255, 12))
 
 
 def circular_avatar(source: Path, size: int) -> Image.Image:
@@ -64,6 +91,7 @@ def main() -> None:
     banner = Image.new("RGBA", (WIDTH, HEIGHT), PRIMARY)
     draw = ImageDraw.Draw(banner, "RGBA")
     draw_background(draw)
+    draw_avatar_accents(draw)
 
     title_font = load_font(54, bold=True)
     subtitle_font = load_font(28, bold=True)
@@ -81,14 +109,16 @@ def main() -> None:
     )
     draw.rectangle((120, 300, 340, 304), fill=ACCENT)
 
-    avatar_size = 184
+    avatar_size = AVATAR_SIZE
     avatar = circular_avatar(profile_path, avatar_size)
     ring_size = avatar_size + 16
     ring = Image.new("RGBA", (ring_size, ring_size), (0, 0, 0, 0))
     ring_draw = ImageDraw.Draw(ring)
     ring_draw.ellipse((0, 0, ring_size, ring_size), outline=ACCENT + (220,), width=4)
-    banner.paste(ring, (1180, 108), ring)
-    banner.paste(avatar, (1188, 116), avatar)
+    ring_x = AVATAR_CENTER_X - ring_size // 2
+    ring_y = AVATAR_CENTER_Y - ring_size // 2
+    banner.paste(ring, (ring_x, ring_y), ring)
+    banner.paste(avatar, (AVATAR_X, AVATAR_Y), avatar)
 
     output = ASSETS / "banner.png"
     banner.convert("RGB").save(output, format="PNG", optimize=True)

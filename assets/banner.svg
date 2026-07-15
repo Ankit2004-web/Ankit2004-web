@@ -26,16 +26,10 @@
   <rect width="1600" height="400" fill="url(#glowGradient)"/>
 
   <!-- Geometric accents -->
-  <circle cx="1380" cy="70" r="120" fill="#1EA7FF" opacity="0.08"/>
-  <circle cx="1480" cy="330" r="90" fill="#FFFFFF" opacity="0.04"/>
-  <rect x="1180" y="40" width="180" height="180" rx="36" fill="#1EA7FF" opacity="0.06" transform="rotate(18 1270 130)"/>
-  <rect x="1040" y="250" width="140" height="140" rx="28" fill="#FFFFFF" opacity="0.05" transform="rotate(-12 1110 320)"/>
-
-  <!-- Subtle geometric accents (no grid) -->
-  <circle cx="1380" cy="70" r="120" fill="#1EA7FF" opacity="0.08"/>
-  <circle cx="1480" cy="330" r="90" fill="#FFFFFF" opacity="0.04"/>
-  <rect x="1180" y="40" width="180" height="180" rx="36" fill="#1EA7FF" opacity="0.06" transform="rotate(18 1270 130)"/>
-  <rect x="1040" y="250" width="140" height="140" rx="28" fill="#FFFFFF" opacity="0.05" transform="rotate(-12 1110 320)"/>
+  <circle cx="1280" cy="200" r="132" fill="#1EA7FF" opacity="0.14"/>
+  <circle cx="1280" cy="200" r="108" fill="#1EA7FF" opacity="0.10"/>
+  <circle cx="1475" cy="350" r="65" fill="#FFFFFF" opacity="0.05"/>
+  <rect x="1040" y="255" width="105" height="105" rx="24" fill="#FFFFFF" opacity="0.05" transform="rotate(-12 1092 307)"/>
 
   <!-- Accent bar -->
   <rect x="120" y="318" width="220" height="4" rx="2" fill="url(#accentGradient)"/>
