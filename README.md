@@ -37,7 +37,7 @@ Building scalable enterprise applications with modern Microsoft technologies.
 
 Full-stack developer focused on enterprise-grade web applications. Currently serving as an **IT Associate Trainee**, building production systems with **ASP.NET Core**, **React**, and **SQL Server** on **Azure** and **Azure DevOps**.
 
-I work across the stack — from REST API design and database modeling to responsive frontends — with emphasis on **clean architecture**, **role-based security**, and **maintainable code**. This profile serves as a developer dashboard; detailed projects, certifications, and resume live on my portfolio.
+I work across the stack — from REST API design and database modeling to responsive frontends — with emphasis on **clean architecture**, **role-based security**, and **maintainable code**.
 
 ---
 
@@ -123,11 +123,9 @@ I work across the stack — from REST API design and database modeling to respon
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
-> The contribution snake generates automatically after the first workflow run. Trigger it manually under **Actions → Generate Snake → Run workflow**.
-
 <br />
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=Ankit2004-web&label=Profile%20Views&color=0A2A66&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ankit2004-web&label=PROFILE%20VIEWS&labelColor=0A2A66&color=1EA7FF&style=for-the-badge)](https://github.com/Ankit2004-web)
 
 </div>
 
@@ -181,10 +179,6 @@ Production portfolio showcasing projects, certifications, skills, and contact �
 ## Certifications
 
 <div align="center">
-
-Full certification history — including AWS Academy, Palo Alto Networks Beacon, Coursera, and IBM SkillsBuild — is maintained on the portfolio.
-
-<br />
 
 [![View All Certifications](https://img.shields.io/badge/View_All_Certifications-1EA7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
 
