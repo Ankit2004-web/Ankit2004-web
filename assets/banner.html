@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ankit Biswas — Banner Preview</title>
+  <style>
+    :root {
+      --primary: #0A2A66;
+      --primary-mid: #0D3478;
+      --accent: #1EA7FF;
+      --white: #FFFFFF;
+      --text-muted: #B8C7DC;
+      --text-light: #E8EEF7;
+      --surface: #123A7A;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      background: #0f172a;
+      font-family: "Segoe UI", Arial, sans-serif;
+      padding: 32px;
+    }
+
+    .preview-note {
+      color: #94a3b8;
+      font-size: 14px;
+      margin-bottom: 16px;
+      text-align: center;
+    }
+
+    .banner {
+      width: 1600px;
+      height: 400px;
+      position: relative;
+      overflow: hidden;
+      border-radius: 8px;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--primary-mid) 55%, var(--primary) 100%);
+      box-shadow: 0 24px 48px rgba(0, 0, 0, 0.35);
+    }
+
+    .banner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(circle at 78% 42%, rgba(30, 167, 255, 0.22), transparent 38%);
+      pointer-events: none;
+    }
+
+    .grid-lines {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.06) 1px, transparent 1px);
+      background-size: 200px 80px;
+      pointer-events: none;
+    }
+
+    .shape {
+      position: absolute;
+      border-radius: 36px;
+      pointer-events: none;
+    }
+
+    .shape-1 {
+      width: 180px;
+      height: 180px;
+      top: 40px;
+      right: 350px;
+      background: rgba(30, 167, 255, 0.06);
+      transform: rotate(18deg);
+    }
+
+    .shape-2 {
+      width: 140px;
+      height: 140px;
+      bottom: 10px;
+      right: 520px;
+      background: rgba(255, 255, 255, 0.05);
+      transform: rotate(-12deg);
+      border-radius: 28px;
+    }
+
+    .shape-3 {
+      width: 240px;
+      height: 240px;
+      top: -70px;
+      right: 90px;
+      border-radius: 50%;
+      background: rgba(30, 167, 255, 0.08);
+    }
+
+    .shape-4 {
+      width: 180px;
+      height: 180px;
+      bottom: -50px;
+      right: 30px;
+      border-radius: 50%;
+      background: rgba(255, 255, 255, 0.04);
+    }
+
+    .content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 120px;
+    }
+
+    .text-block {
+      max-width: 760px;
+    }
+
+    .name {
+      color: var(--white);
+      font-size: 54px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      line-height: 1.1;
+    }
+
+    .title {
+      margin-top: 12px;
+      color: var(--accent);
+      font-size: 28px;
+      font-weight: 600;
+    }
+
+    .tagline {
+      margin-top: 24px;
+      color: var(--text-light);
+      font-size: 22px;
+      font-weight: 400;
+    }
+
+    .stack {
+      margin-top: 18px;
+      color: var(--text-muted);
+      font-size: 17px;
+      letter-spacing: 0.3px;
+    }
+
+    .accent-bar {
+      margin-top: 28px;
+      width: 220px;
+      height: 4px;
+      border-radius: 2px;
+      background: linear-gradient(90deg, rgba(30, 167, 255, 0.9), rgba(30, 167, 255, 0.2));
+    }
+
+    .profile {
+      position: relative;
+      width: 200px;
+      height: 200px;
+      flex-shrink: 0;
+    }
+
+    .profile-ring {
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      border: 3px solid rgba(30, 167, 255, 0.85);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+    }
+
+    .profile-avatar {
+      position: absolute;
+      inset: 8px;
+      border-radius: 50%;
+      background:
+        radial-gradient(circle at 35% 30%, rgba(30, 167, 255, 0.25), transparent 55%),
+        var(--surface);
+      display: grid;
+      place-items: center;
+      overflow: hidden;
+    }
+
+    .profile-avatar img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .profile-initials {
+      color: var(--white);
+      font-size: 52px;
+      font-weight: 700;
+    }
+
+    .connector {
+      position: absolute;
+      top: 50%;
+      right: 420px;
+      width: 200px;
+      height: 2px;
+      background: repeating-linear-gradient(
+        90deg,
+        rgba(30, 167, 255, 0.35) 0 6px,
+        transparent 6px 16px
+      );
+      transform: translateY(-50%);
+    }
+
+    /* Editable fields helper */
+    [contenteditable="true"]:focus {
+      outline: 2px solid rgba(30, 167, 255, 0.6);
+      outline-offset: 4px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <p class="preview-note">
+      Editable banner preview — click text to customize, then export via browser screenshot or use <code>banner.svg</code> for GitHub.
+    </p>
+
+    <div class="banner" id="banner">
+      <div class="grid-lines"></div>
+      <div class="shape shape-1"></div>
+      <div class="shape shape-2"></div>
+      <div class="shape shape-3"></div>
+      <div class="shape shape-4"></div>
+      <div class="connector"></div>
+
+      <div class="content">
+        <div class="text-block">
+          <h1 class="name" contenteditable="true">Ankit Biswas</h1>
+          <p class="title" contenteditable="true">Full-Stack Developer</p>
+          <p class="tagline" contenteditable="true">Building Scalable Enterprise Applications</p>
+          <p class="stack" contenteditable="true">ASP.NET Core • React • SQL Server • Azure DevOps</p>
+          <div class="accent-bar"></div>
+        </div>
+
+        <div class="profile">
+          <div class="profile-ring"></div>
+          <div class="profile-avatar">
+            <img src="profile.png" alt="Ankit Biswas" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
