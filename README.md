@@ -79,112 +79,61 @@ I care about clean architecture, role-based security, and code a team can still 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2A66&height=60&section=header&text=Projects&fontSize=26&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" />
+## Projects
 
 <div align="center">
 
 Same lineup as the [live portfolio](https://ankit-portfolio-iota-one.vercel.app/).
 
+<br /><br />
+
+<a href="https://niia-26-wfi.azurewebsites.net/">
+  <img src="assets/projects/01-wfims.png" alt="Workforce Intelligence" width="100%" />
+</a>
+
+[Live demo](https://niia-26-wfi.azurewebsites.net/) · [Source](https://github.com/Ankit2004-web/Workforce-Intelligence-Attendance-Management-System)
+
+<br /><br />
+
+<a href="https://velune-iyco.onrender.com">
+  <img src="assets/projects/02-velune.png" alt="Velune" width="100%" />
+</a>
+
+[Live demo](https://velune-iyco.onrender.com) · Private repository
+
+<br /><br />
+
+<a href="https://railyatra-72z5.onrender.com">
+  <img src="assets/projects/03-railyatra.png" alt="Railyatra" width="100%" />
+</a>
+
+[Live demo](https://railyatra-72z5.onrender.com) · [Source](https://github.com/Ankit2004-web/RailYatra)
+
+<br /><br />
+
+<a href="https://anti-sleep-alarm-tawny.vercel.app/">
+  <img src="assets/projects/04-anti-sleep.png" alt="Anti Sleep Alarm" width="100%" />
+</a>
+
+[Live demo](https://anti-sleep-alarm-tawny.vercel.app/) · [Source](https://github.com/Ankit2004-web/anti-sleep-alarm)
+
+<br /><br />
+
+<a href="https://github.com/Ankit2004-web/CipherLink">
+  <img src="assets/projects/05-cipherlink.png" alt="CipherLink" width="100%" />
+</a>
+
+[Source](https://github.com/Ankit2004-web/CipherLink)
+
+<br /><br />
+
+<a href="https://ankit-portfolio-iota-one.vercel.app/">
+  <img src="assets/projects/06-portfolio.png" alt="Portfolio" width="100%" />
+</a>
+
+[Live demo](https://ankit-portfolio-iota-one.vercel.app/) · [Source](https://github.com/Ankit2004-web/Ankit-portfolio)
+
 </div>
-
-<br />
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-[![WFIMS](https://img.shields.io/badge/01-Workforce_Intelligence-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=microsoftazure&logoColor=0A2A66)](https://niia-26-wfi.azurewebsites.net/)
-
-Teams manage employees, attendance, and leave in one place, with role-based access, live analytics, notifications, and reports. Built during my internship at Newmark.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://niia-26-wfi.azurewebsites.net/)
-[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Workforce-Intelligence-Attendance-Management-System)
-
-</td>
-<td width="50%" valign="top">
-
-[![Velune](https://img.shields.io/badge/02-Velune-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=cake&logoColor=0A2A66)](https://velune-iyco.onrender.com)
-
-A private birthday, delivered as one link. Photos, a letter, cake, and music open as a cinematic page on a phone. No app. No account.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://velune-iyco.onrender.com)
-[![Private](https://img.shields.io/badge/Private-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[![Railyatra](https://img.shields.io/badge/03-Railyatra-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=railway&logoColor=0A2A66)](https://railyatra-72z5.onrender.com)
-
-Passengers search trains, book tickets, and manage reservations. Secure login protects each account, and an admin dashboard lets staff oversee bookings.
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://railyatra-72z5.onrender.com)
-[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/RailYatra)
-
-</td>
-<td width="50%" valign="top">
-
-[![Anti Sleep](https://img.shields.io/badge/04-Anti_Sleep_Alarm-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=arduino&logoColor=0A2A66)](https://anti-sleep-alarm-tawny.vercel.app/)
-
-A small device that notices when a driver stops blinking and sounds an alarm. Arduino firmware, an IR blink sensor, and a live site that explains the hardware.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://anti-sleep-alarm-tawny.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/anti-sleep-alarm)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-[![CipherLink](https://img.shields.io/badge/05-CipherLink-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=letsencrypt&logoColor=0A2A66)](https://github.com/Ankit2004-web/CipherLink)
-
-A messenger that stays private even in the database. Group chat, photos, and voice notes, with every message stored as ciphertext.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![AES](https://img.shields.io/badge/AES--256--GCM-0A2A66?style=flat-square)
-
-[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/CipherLink)
-
-</td>
-<td width="50%" valign="top">
-
-[![Portfolio](https://img.shields.io/badge/06-Portfolio-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
-
-The production site for these projects, certifications, skills, and contact. React, TypeScript, and Tailwind, deployed on Vercel.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
-[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Ankit-portfolio)
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0A2A66&height=36&section=footer&text=&fontSize=0" width="100%" />
 
