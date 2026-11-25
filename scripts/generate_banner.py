@@ -29,12 +29,16 @@ def load_font(size: int, bold: bool = False) -> ImageFont.FreeTypeFont | ImageFo
 
 
 def draw_background(draw: ImageDraw.ImageDraw) -> None:
-    for x in range(WIDTH):
-        ratio = x / WIDTH
-        r = int(PRIMARY[0] + (13 - PRIMARY[0]) * ratio * 0.4)
-        g = int(PRIMARY[1] + (52 - PRIMARY[1]) * ratio * 0.4)
-        b = int(PRIMARY[2] + (120 - PRIMARY[2]) * ratio * 0.4)
-        draw.line([(x, 0), (x, HEIGHT)], fill=(r, g, b))
+    for y in range(HEIGHT):
+        ratio = y / HEIGHT
+        r = int(6 + (PRIMARY[0] - 6) * (0.35 + ratio * 0.65))
+        g = int(14 + (PRIMARY[1] - 14) * (0.25 + ratio * 0.75))
+        b = int(32 + (PRIMARY[2] - 32) * (0.2 + ratio * 0.8))
+        draw.line([(0, y), (WIDTH, y)], fill=(r, g, b))
+
+    for x in range(80, 980, 28):
+        for y in range(36, HEIGHT - 24, 28):
+            draw.ellipse((x, y, x + 2, y + 2), fill=(30, 167, 255, 28))
 
 
 def draw_avatar_accents(draw: ImageDraw.ImageDraw) -> None:
@@ -59,10 +63,6 @@ def draw_avatar_accents(draw: ImageDraw.ImageDraw) -> None:
         ),
         fill=(ACCENT[0], ACCENT[1], ACCENT[2], 28),
     )
-
-    draw.ellipse((1410, 285, 1540, 415), fill=(255, 255, 255, 18))
-    draw.rounded_rectangle((1040, 255, 1145, 360), radius=24, fill=(255, 255, 255, 12))
-
 
 def circular_avatar(source: Path, size: int) -> Image.Image:
     image = Image.open(source).convert("RGBA")
@@ -98,16 +98,17 @@ def main() -> None:
     body_font = load_font(22)
     small_font = load_font(17)
 
-    draw.text((120, 70), "Ankit Biswas", font=title_font, fill=WHITE)
-    draw.text((120, 140), "Full-Stack Developer", font=subtitle_font, fill=ACCENT)
-    draw.text((120, 190), "Building Scalable Enterprise Applications", font=body_font, fill=LIGHT)
+    draw.text((120, 64), "Ankit Biswas", font=title_font, fill=WHITE)
+    draw.text((120, 132), "Software Engineer", font=subtitle_font, fill=ACCENT)
+    draw.text((120, 182), "Tools a team uses. Products you can open.", font=body_font, fill=LIGHT)
     draw.text(
-        (120, 236),
-        "ASP.NET Core • React • SQL Server • Azure DevOps",
+        (120, 226),
+        "React  ·  .NET  ·  Next.js  ·  Python",
         font=small_font,
         fill=MUTED,
     )
-    draw.rectangle((120, 300, 340, 304), fill=ACCENT)
+    draw.rounded_rectangle((120, 276, 560, 318), radius=21, fill=(7, 24, 64), outline=ACCENT, width=2)
+    draw.text((142, 286), "Newmark   ·   Hyderabad   ·   KIIT CSE", font=small_font, fill=LIGHT)
 
     avatar_size = AVATAR_SIZE
     avatar = circular_avatar(profile_path, avatar_size)

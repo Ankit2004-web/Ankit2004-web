@@ -1,119 +1,209 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Ankit Biswas — Full-Stack Developer" width="100%" />
-
-<br /><br />
-
-<img src="assets/profile-circle.png" alt="Ankit Biswas" width="140" />
-
-<br /><br />
-
-# Ankit Biswas
-
-### Software Engineer & Full-Stack Developer
-
-Building tools a team uses every day at Newmark, and products you can open — React, .NET, Next.js, and Python.
+<img src="assets/banner.png" alt="Ankit Biswas — Software Engineer" width="100%" />
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,cs,dotnet,py,nodejs,postgres,mongodb,tailwind,azure,git,github,docker,vscode" alt="Technology stack icons" />
-
-<br /><br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3000&pause=1200&color=1EA7FF&center=true&vCenter=true&width=620&lines=Software+Engineer+at+Newmark;ASP.NET+Core+%26+React;Next.js+%26+Python;Building+products+you+can+open;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2800&pause=1000&color=1EA7FF&center=true&vCenter=true&width=640&lines=Software+Engineer+at+Newmark;I+build+software+you+can+open;React+%C2%B7+.NET+%C2%B7+Next.js+%C2%B7+Python;Clean+architecture.+Real+workflows.)](https://git.io/typing-svg)
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A2A66?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2A66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-biswas-6356a7256/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
 [![Email](https://img.shields.io/badge/Email-0A2A66?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imankit.biswas@gmail.com)
 
+<br />
+
+[![Newmark](https://img.shields.io/badge/IT_Associate_Trainee-Newmark-0A2A66?style=flat-square&logo=microsoft&logoColor=1EA7FF)](https://ankit-portfolio-iota-one.vercel.app/)
+[![Location](https://img.shields.io/badge/Hyderabad-India-0A2A66?style=flat-square&logo=googlemaps&logoColor=1EA7FF)](https://ankit-portfolio-iota-one.vercel.app/)
+[![KIIT](https://img.shields.io/badge/KIIT_CSE-CGPA_9.09-0A2A66?style=flat-square&logo=academia&logoColor=1EA7FF)](https://ankit-portfolio-iota-one.vercel.app/)
+
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2A66&height=70&section=header&text=&fontSize=0" width="100%" />
 
-## About Me
-
-Full-stack developer and **IT Associate Trainee at Newmark** in Hyderabad. I build production systems with **React**, **ASP.NET Core**, and **SQL Server**, and ship my own work in **Next.js** and **Python** — a private birthday in one link, a messenger that stores every chat as ciphertext, and an Arduino alarm that notices when a driver stops blinking.
-
-I work across the stack — from REST API design and database modeling to responsive frontends — with emphasis on **clean architecture**, **role-based security**, and **maintainable code**.
-
----
-
-## Current Focus
-
-| Area | Focus |
-|------|-------|
-| **Enterprise Applications** | Workforce platforms, reservation systems, encrypted messaging |
-| **Cloud Computing** | Azure services, deployment pipelines, environment management |
-| **Azure** | Cloud-native development and DevOps integration |
-| **System Design** | Layered architecture, API contracts, data modeling |
-| **Clean Architecture** | Separation of concerns, testable service layers |
-| **Performance Optimization** | Query tuning, frontend efficiency, scalable APIs |
-
----
-
-## Technology Stack
+## About
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="62%" valign="top">
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-0A2A66?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A2A66?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A2A66?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0A2A66?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-0A2A66?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0A2A66?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0A2A66?style=flat-square&logo=css3&logoColor=white)
+Full-stack developer and **IT Associate Trainee at Newmark** in Hyderabad. I build production systems with **React**, **ASP.NET Core**, and **SQL Server**, and ship my own work in **Next.js** and **Python**.
 
-### Frontend
-![React](https://img.shields.io/badge/React-0A2A66?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A2A66?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A2A66?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
-![Vite](https://img.shields.io/badge/Vite-0A2A66?style=flat-square&logo=vite&logoColor=white)
+That includes **Velune**, a private birthday opened from one link, **CipherLink**, a messenger that stores every chat as ciphertext, and an **Arduino alarm** that notices when a driver stops blinking.
 
-### Backend
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0A2A66?style=flat-square&logo=dotnet&logoColor=white)
-![.NET 8](https://img.shields.io/badge/.NET_8-0A2A66?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Flask-0A2A66?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0A2A66?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0A2A66?style=flat-square&logo=express&logoColor=white)
+I care about clean architecture, role-based security, and code a team can still change six months later.
 
 </td>
-<td valign="top" width="50%">
+<td width="38%" valign="top">
 
-### Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-0A2A66?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A2A66?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0A2A66?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A2A66?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0A2A66?style=flat-square&logo=mysql&logoColor=white)
+**Right now**
 
-### Cloud
-![Azure](https://img.shields.io/badge/Azure-0A2A66?style=flat-square&logo=microsoftazure&logoColor=1EA7FF)
+- Workforce tools at Newmark
+- Encrypted messaging
+- Next.js product work
+- Azure DevOps delivery
 
-### DevOps
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0A2A66?style=flat-square&logo=azuredevops&logoColor=1EA7FF)
-![Git](https://img.shields.io/badge/Git-0A2A66?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A2A66?style=flat-square&logo=github&logoColor=white)
+**How I build**
 
-### Tools
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-0A2A66?style=flat-square&logo=visualstudio&logoColor=5C2D91)
-![VS Code](https://img.shields.io/badge/VS_Code-0A2A66?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/Docker-0A2A66?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0A2A66?style=flat-square&logo=postman&logoColor=FF6C37)
-![Arduino](https://img.shields.io/badge/Arduino-0A2A66?style=flat-square&logo=arduino&logoColor=white)
+- Layered APIs and real data models
+- Auth and access designed in
+- Performance checked on real workflows
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A2A66&height=36&section=footer&text=&fontSize=0" width="100%" />
 
-## GitHub Analytics
+## Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&perline=8" alt="Frontend" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,flask,nodejs,express&perline=6" alt="Backend" />
+
+**Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,mysql,azure,docker&perline=6" alt="Data and cloud" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,arduino&perline=6" alt="Tools" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2A66&height=60&section=header&text=Projects&fontSize=26&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%" />
+
+<div align="center">
+
+Same lineup as the [live portfolio](https://ankit-portfolio-iota-one.vercel.app/).
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[![WFIMS](https://img.shields.io/badge/01-Workforce_Intelligence-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=microsoftazure&logoColor=0A2A66)](https://niia-26-wfi.azurewebsites.net/)
+
+Teams manage employees, attendance, and leave in one place, with role-based access, live analytics, notifications, and reports. Built during my internship at Newmark.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=microsoftazure&logoColor=0A2A66)](https://niia-26-wfi.azurewebsites.net/)
+[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Workforce-Intelligence-Attendance-Management-System)
+
+</td>
+<td width="50%" valign="top">
+
+[![Velune](https://img.shields.io/badge/02-Velune-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=cake&logoColor=0A2A66)](https://velune-iyco.onrender.com)
+
+A private birthday, delivered as one link. Photos, a letter, cake, and music open as a cinematic page on a phone. No app. No account.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=render&logoColor=0A2A66)](https://velune-iyco.onrender.com)
+[![Private](https://img.shields.io/badge/Private-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![Railyatra](https://img.shields.io/badge/03-Railyatra-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=railway&logoColor=0A2A66)](https://railyatra-72z5.onrender.com)
+
+Passengers search trains, book tickets, and manage reservations. Secure login protects each account, and an admin dashboard lets staff oversee bookings.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=render&logoColor=0A2A66)](https://railyatra-72z5.onrender.com)
+[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/RailYatra)
+
+</td>
+<td width="50%" valign="top">
+
+[![Anti Sleep](https://img.shields.io/badge/04-Anti_Sleep_Alarm-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=arduino&logoColor=0A2A66)](https://anti-sleep-alarm-tawny.vercel.app/)
+
+A small device that notices when a driver stops blinking and sounds an alarm. Arduino firmware, an IR blink sensor, and a live site that explains the hardware.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://anti-sleep-alarm-tawny.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/anti-sleep-alarm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+[![CipherLink](https://img.shields.io/badge/05-CipherLink-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=letsencrypt&logoColor=0A2A66)](https://github.com/Ankit2004-web/CipherLink)
+
+A messenger that stays private even in the database. Group chat, photos, and voice notes, with every message stored as ciphertext.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AES](https://img.shields.io/badge/AES--256--GCM-0A2A66?style=flat-square)
+
+[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/CipherLink)
+
+</td>
+<td width="50%" valign="top">
+
+[![Portfolio](https://img.shields.io/badge/06-Portfolio-0A2A66?style=for-the-badge&labelColor=1EA7FF&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
+
+The production site for these projects, certifications, skills, and contact. React, TypeScript, and Tailwind, deployed on Vercel.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
+[![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Ankit-portfolio)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A2A66&height=36&section=footer&text=&fontSize=0" width="100%" />
+
+## Certifications
+
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/AWS_Academy-Cloud_Architecting-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
+[![Palo Alto](https://img.shields.io/badge/Palo_Alto-Cloud_%26_Network_Security-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
+[![Coursera](https://img.shields.io/badge/Coursera-Business_Analytics-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
+[![IBM](https://img.shields.io/badge/IBM-SkillsBuild-0530AD?style=for-the-badge&logo=ibm&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
+
+<br />
+
+[![All certifications](https://img.shields.io/badge/View_all_on_the_portfolio-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2A66&height=60&section=header&text=GitHub&fontSize=26&fontColor=ffffff&fontAlignY=60" width="100%" />
 
 <div align="center">
 
@@ -122,16 +212,18 @@ I work across the stack — from REST API design and database modeling to respon
 
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit2004-web&layout=compact&theme=dark&hide_border=true&title_color=1EA7FF&text_color=E8EEF7&bg_color=0A2A66&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit2004-web&layout=compact&theme=dark&hide_border=true&title_color=1EA7FF&text_color=E8EEF7&bg_color=0A2A66&langs_count=8" alt="Top Languages" />
 
 <br />
 
-### Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit2004-web&bg_color=0A2A66&color=E8EEF7&line=1EA7FF&point=ffffff&area=true&hide_border=true&radius=8" alt="Contribution activity" width="100%" />
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ankit2004-web/Ankit2004-web/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
 <br />
@@ -140,135 +232,31 @@ I work across the stack — from REST API design and database modeling to respon
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0A2A66&height=36&section=footer&text=&fontSize=0" width="100%" />
 
-## Featured Projects
-
-Same order as the [portfolio](https://ankit-portfolio-iota-one.vercel.app/).
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 · Workforce Intelligence & Management System
-
-Workforce platform built during my internship at Newmark. Teams manage employees, attendance, and leave in one place, with role-based access, live analytics, notifications, and reports.
-
-**Stack:** `React` · `TypeScript` · `ASP.NET Core` · `.NET 8` · `SQL Server` · `JWT` · `Azure DevOps`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://niia-26-wfi.azurewebsites.net/)
-[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Workforce-Intelligence-Attendance-Management-System)
-
-</td>
-<td width="50%" valign="top">
-
-### 02 · Velune
-
-A private birthday, delivered as one link. The sender packs photos, a letter, cake, and music. The recipient opens a cinematic page on their phone — no app, no account.
-
-**Stack:** `TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Prisma` · `PostgreSQL` · `Zod` · `Google sign-in`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=render&logoColor=white)](https://velune-iyco.onrender.com)
-[![Repository](https://img.shields.io/badge/Repository-Private-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 · Railyatra
-
-Passengers search trains, book tickets, and manage reservations. Secure login protects each account, and an admin dashboard lets staff oversee bookings.
-
-**Stack:** `Node.js` · `Express.js` · `MongoDB` · `JavaScript` · `JWT`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=render&logoColor=white)](https://railyatra-72z5.onrender.com)
-[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/RailYatra)
-
-</td>
-<td width="50%" valign="top">
-
-### 04 · Anti Sleep Alarm
-
-A small device that notices when a driver stops blinking and sounds an alarm. Arduino firmware with an IR blink sensor and buzzer, plus a live site that explains the hardware and code.
-
-**Stack:** `Arduino UNO` · `C++` · `IR Blink Sensor` · `Piezo Buzzer` · `HTML` · `JavaScript` · `Vercel`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://anti-sleep-alarm-tawny.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/anti-sleep-alarm)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05 · CipherLink
-
-A messenger that stays private even in the database. People sign in, chat in groups, and send photos and voice notes. Every message is stored as ciphertext.
-
-**Stack:** `Python` · `Flask` · `React` · `Vite` · `PostgreSQL` · `AES-256-GCM` · `RSA-OAEP` · `Google Auth`
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/CipherLink)
-
-</td>
-<td width="50%" valign="top">
-
-### Personal Portfolio
-
-Production portfolio showcasing these projects, certifications, skills, and contact. Deployed on Vercel.
-
-**Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Vercel`
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
-[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Ankit-portfolio)
-
-</td>
-</tr>
-</table>
-
----
-
-## Certifications
-
-- **AWS Academy** — Cloud Architecting
-- **Palo Alto Networks** — Cloud Security, Network Security, Cybersecurity, SOC, and SASE Fundamentals
-- **Coursera** — Business Analytics for Decision Making
-- **IBM SkillsBuild** — professional development certificates
-- **Cybersecurity** — virtual internship
+## How I think about software
 
 <div align="center">
 
-[![View All Certifications](https://img.shields.io/badge/View_All_Certifications-1EA7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
+*Performance and security belong in the first design, not a later pass.*
+
+Clear boundaries, predictable APIs, and data models that match the business. I ship in small steps and change the product from real use, not from guesses.
 
 </div>
 
----
-
-## Development Philosophy
-
-Software should be built to last. I prioritize clear domain boundaries, predictable APIs, and data models that reflect real business rules. Every layer — from authentication middleware to UI components — should have a defined responsibility. Performance and security are not afterthoughts; they are part of the initial design. I ship iteratively, validate with real workflows, and refine based on measurable outcomes rather than assumptions.
-
----
-
-## Let's Connect
+## Let's connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ankit--portfolio--iota--one.vercel.app-0A2A66?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Biswas-0A2A66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-biswas-6356a7256/)
-[![Email](https://img.shields.io/badge/Email-imankit.biswas%40gmail.com-0A2A66?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imankit.biswas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Ankit2004--web-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A2A66?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-biswas-6356a7256/)
+[![Email](https://img.shields.io/badge/imankit.biswas@gmail.com-0A2A66?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imankit.biswas@gmail.com)
+[![GitHub](https://img.shields.io/badge/Ankit2004--web-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
 
-</div>
-
----
-
-<div align="center">
+<br />
 
 <sub>Building software that is reliable, scalable, and meaningful.</sub>
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A2A66&height=80&section=footer&text=&fontSize=0" width="100%" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071428,100:1EA7FF&height=110&section=footer&text=&fontSize=0&animation=twinkling" width="100%" />
