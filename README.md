@@ -10,17 +10,17 @@
 
 # Ankit Biswas
 
-### Full-Stack Developer
+### Software Engineer & Full-Stack Developer
 
-Building scalable enterprise applications with modern Microsoft technologies.
+Building tools a team uses every day at Newmark, and products you can open — React, .NET, Next.js, and Python.
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,nodejs,html,css,tailwind,mongodb,mysql,azure,git,github,vscode,visualstudio,postman" alt="Technology stack icons" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,cs,dotnet,py,nodejs,postgres,mongodb,tailwind,azure,git,github,docker,vscode" alt="Technology stack icons" />
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3000&pause=1200&color=1EA7FF&center=true&vCenter=true&width=600&lines=Building+Enterprise+Applications;ASP.NET+Core+Developer;React+Developer;Azure+DevOps+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3000&pause=1200&color=1EA7FF&center=true&vCenter=true&width=620&lines=Software+Engineer+at+Newmark;ASP.NET+Core+%26+React;Next.js+%26+Python;Building+products+you+can+open;Always+Learning)](https://git.io/typing-svg)
 
 <br />
 
@@ -35,7 +35,7 @@ Building scalable enterprise applications with modern Microsoft technologies.
 
 ## About Me
 
-Full-stack developer focused on enterprise-grade web applications. Currently serving as an **IT Associate Trainee**, building production systems with **ASP.NET Core**, **React**, and **SQL Server** on **Azure** and **Azure DevOps**.
+Full-stack developer and **IT Associate Trainee at Newmark** in Hyderabad. I build production systems with **React**, **ASP.NET Core**, and **SQL Server**, and ship my own work in **Next.js** and **Python** — a private birthday in one link, a messenger that stores every chat as ciphertext, and an Arduino alarm that notices when a driver stops blinking.
 
 I work across the stack — from REST API design and database modeling to responsive frontends — with emphasis on **clean architecture**, **role-based security**, and **maintainable code**.
 
@@ -45,7 +45,7 @@ I work across the stack — from REST API design and database modeling to respon
 
 | Area | Focus |
 |------|-------|
-| **Enterprise Applications** | Workforce platforms, reservation systems, business workflows |
+| **Enterprise Applications** | Workforce platforms, reservation systems, encrypted messaging |
 | **Cloud Computing** | Azure services, deployment pipelines, environment management |
 | **Azure** | Cloud-native development and DevOps integration |
 | **System Design** | Layered architecture, API contracts, data modeling |
@@ -62,17 +62,23 @@ I work across the stack — from REST API design and database modeling to respon
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-0A2A66?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0A2A66?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A2A66?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A2A66?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A2A66?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-0A2A66?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0A2A66?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0A2A66?style=flat-square&logo=css3&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0A2A66?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0A2A66?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A2A66?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Vite](https://img.shields.io/badge/Vite-0A2A66?style=flat-square&logo=vite&logoColor=white)
 
 ### Backend
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0A2A66?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-0A2A66?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Flask-0A2A66?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-0A2A66?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-0A2A66?style=flat-square&logo=express&logoColor=white)
 
@@ -81,7 +87,10 @@ I work across the stack — from REST API design and database modeling to respon
 
 ### Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0A2A66?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A2A66?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-0A2A66?style=flat-square&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0A2A66?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0A2A66?style=flat-square&logo=mysql&logoColor=white)
 
 ### Cloud
 ![Azure](https://img.shields.io/badge/Azure-0A2A66?style=flat-square&logo=microsoftazure&logoColor=1EA7FF)
@@ -94,7 +103,9 @@ I work across the stack — from REST API design and database modeling to respon
 ### Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0A2A66?style=flat-square&logo=visualstudio&logoColor=5C2D91)
 ![VS Code](https://img.shields.io/badge/VS_Code-0A2A66?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![Docker](https://img.shields.io/badge/Docker-0A2A66?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-0A2A66?style=flat-square&logo=postman&logoColor=FF6C37)
+![Arduino](https://img.shields.io/badge/Arduino-0A2A66?style=flat-square&logo=arduino&logoColor=white)
 
 </td>
 </tr>
@@ -133,42 +144,83 @@ I work across the stack — from REST API design and database modeling to respon
 
 ## Featured Projects
 
+Same order as the [portfolio](https://ankit-portfolio-iota-one.vercel.app/).
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Workforce Intelligence & Attendance Management System
+### 01 · Workforce Intelligence & Management System
 
-Enterprise workforce platform with employee management, attendance tracking, leave workflows, analytics dashboards, role-based access control, and multilingual support.
+Workforce platform built during my internship at Newmark. Teams manage employees, attendance, and leave in one place, with role-based access, live analytics, notifications, and reports.
 
-**Stack:** `React` · `TypeScript` · `ASP.NET Core` · `SQL Server` · `JWT` · `Azure DevOps`
+**Stack:** `React` · `TypeScript` · `ASP.NET Core` · `.NET 8` · `SQL Server` · `JWT` · `Azure DevOps`
 
-![Repository](https://img.shields.io/badge/Repository-Private-0A2A66?style=for-the-badge&logo=github&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://niia-26-wfi.azurewebsites.net/)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Workforce-Intelligence-Attendance-Management-System)
 
 </td>
 <td width="50%" valign="top">
 
-### Railway Reservation Management System
+### 02 · Velune
 
-Secure railway reservation platform with JWT authentication, train search, ticket booking, booking management, and an admin dashboard with role-based access.
+A private birthday, delivered as one link. The sender packs photos, a letter, cake, and music. The recipient opens a cinematic page on their phone — no app, no account.
 
-**Stack:** `Node.js` · `Express.js` · `MongoDB` · `JavaScript` · `JWT`
+**Stack:** `TypeScript` · `Next.js` · `React` · `Tailwind CSS` · `Prisma` · `PostgreSQL` · `Zod` · `Google sign-in`
 
-![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=render&logoColor=white)](https://velune-iyco.onrender.com)
+[![Repository](https://img.shields.io/badge/Repository-Private-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### 03 · Railyatra
+
+Passengers search trains, book tickets, and manage reservations. Secure login protects each account, and an admin dashboard lets staff oversee bookings.
+
+**Stack:** `Node.js` · `Express.js` · `MongoDB` · `JavaScript` · `JWT`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=render&logoColor=white)](https://railyatra-72z5.onrender.com)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/RailYatra)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 · Anti Sleep Alarm
+
+A small device that notices when a driver stops blinking and sounds an alarm. Arduino firmware with an IR blink sensor and buzzer, plus a live site that explains the hardware and code.
+
+**Stack:** `Arduino UNO` · `C++` · `IR Blink Sensor` · `Piezo Buzzer` · `HTML` · `JavaScript` · `Vercel`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://anti-sleep-alarm-tawny.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/anti-sleep-alarm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 · CipherLink
+
+A messenger that stays private even in the database. People sign in, chat in groups, and send photos and voice notes. Every message is stored as ciphertext.
+
+**Stack:** `Python` · `Flask` · `React` · `Vite` · `PostgreSQL` · `AES-256-GCM` · `RSA-OAEP` · `Google Auth`
+
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/CipherLink)
+
+</td>
+<td width="50%" valign="top">
 
 ### Personal Portfolio
 
-Production portfolio showcasing projects, certifications, skills, and contact — built with a modern enterprise UI and deployed on Vercel.
+Production portfolio showcasing these projects, certifications, skills, and contact. Deployed on Vercel.
 
-**Stack:** `React` · `Tailwind CSS` · `Vercel`
+**Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Vercel`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-1EA7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
-![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)
+[![Repository](https://img.shields.io/badge/Repository-View_Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Ankit-portfolio)
 
 </td>
 </tr>
@@ -177,6 +229,12 @@ Production portfolio showcasing projects, certifications, skills, and contact �
 ---
 
 ## Certifications
+
+- **AWS Academy** — Cloud Architecting
+- **Palo Alto Networks** — Cloud Security, Network Security, Cybersecurity, SOC, and SASE Fundamentals
+- **Coursera** — Business Analytics for Decision Making
+- **IBM SkillsBuild** — professional development certificates
+- **Cybersecurity** — virtual internship
 
 <div align="center">
 
