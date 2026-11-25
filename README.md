@@ -102,7 +102,7 @@ Teams manage employees, attendance, and leave in one place, with role-based acce
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=microsoftazure&logoColor=0A2A66)](https://niia-26-wfi.azurewebsites.net/)
+[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://niia-26-wfi.azurewebsites.net/)
 [![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Workforce-Intelligence-Attendance-Management-System)
 
 </td>
@@ -117,7 +117,7 @@ A private birthday, delivered as one link. Photos, a letter, cake, and music ope
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=render&logoColor=0A2A66)](https://velune-iyco.onrender.com)
+[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://velune-iyco.onrender.com)
 [![Private](https://img.shields.io/badge/Private-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web)
 
 </td>
@@ -134,7 +134,7 @@ Passengers search trains, book tickets, and manage reservations. Secure login pr
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=render&logoColor=0A2A66)](https://railyatra-72z5.onrender.com)
+[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=render&logoColor=white)](https://railyatra-72z5.onrender.com)
 [![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/RailYatra)
 
 </td>
@@ -148,7 +148,7 @@ A small device that notices when a driver stops blinking and sounds an alarm. Ar
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://anti-sleep-alarm-tawny.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://anti-sleep-alarm-tawny.vercel.app/)
 [![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/anti-sleep-alarm)
 
 </td>
@@ -179,7 +179,7 @@ The production site for these projects, certifications, skills, and contact. Rea
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![Live](https://img.shields.io/badge/Live-1EA7FF?style=for-the-badge&logo=vercel&logoColor=0A2A66)](https://ankit-portfolio-iota-one.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-portfolio-iota-one.vercel.app/)
 [![Code](https://img.shields.io/badge/Code-0A2A66?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit2004-web/Ankit-portfolio)
 
 </td>
